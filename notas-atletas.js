@@ -17,7 +17,7 @@ let atletas = [
     }
    ];
 
-function compare() {return a - b;};
+function comparacao() {return a - b;};
 
 for (let i = 0; i < atletas.length; i++) {
   let soma = 0;
